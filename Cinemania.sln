@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinemania", "Cinemania\Cinemania.csproj", "{D3DD43B2-39CA-4552-B237-1EEE51A5C340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DD43B2-39CA-4552-B237-1EEE51A5C340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DD43B2-39CA-4552-B237-1EEE51A5C340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DD43B2-39CA-4552-B237-1EEE51A5C340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DD43B2-39CA-4552-B237-1EEE51A5C340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB3E8026-51F9-4059-B162-ED253D816B4C}
+	EndGlobalSection
+EndGlobal
